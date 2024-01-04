@@ -28,3 +28,6 @@ const myFunction = function() {
 }// Functions
 
 console.log(typeof myFunction);
+
+
+
